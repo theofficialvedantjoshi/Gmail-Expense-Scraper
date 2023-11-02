@@ -36,6 +36,10 @@ STATISTICS
 
 ![image](https://github.com/theofficialvedantjoshi/Gmail-Expense-Scraper/assets/76871277/e901eaa4-e3c5-49fa-85fd-864b926cc249)
 
+Bugs to fix:
+1.)Progress Bar movement.
+2.)Adding more analytical features to the data.
+
 
 
 
