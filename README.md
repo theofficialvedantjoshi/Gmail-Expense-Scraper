@@ -2,7 +2,7 @@
 
 Python automation project with interactable GUI to scrape expenses from Gmail using the Google API and providing analysis in excel.
 
-credentials.json is required to access the Google Calendar API. It can be downloaded from the Google Calendar API Quickstart page. The file should be placed in the same directory as script.py
+credentials.json is required to access the Gmail API. It can be downloaded from the Gmail API Quickstart page. The file should be placed in the same directory as script.py
 
 https://developers.google.com/gmail/api/quickstart/python
 
